@@ -8,6 +8,9 @@ body{
     
     margin: 25px;
 }
+p{
+    text-align: center;
+}
 div{
     padding: 15px;
 }
